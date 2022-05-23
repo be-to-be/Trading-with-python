@@ -8,7 +8,9 @@
 ## Demo
 * This app uses 2 heroku servers, 1 for the frontend, and another for the backend.
   * Therefore, if may take a while to load the page or for the user registration / sign in.
-![Demo](./images/demo.gif)
+<img src="/images/demo.gif">
+  
+<!-- ![Demo](./images/demo.gif) -->
 * Feel free to try out the demo
   > https://onlinetradingplatform.herokuapp.com/
 * Creating an account will be required to test the trading feature and modify account settings.
